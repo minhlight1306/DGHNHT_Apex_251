@@ -12,7 +12,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <br />
 <img src="https://img.shields.io/github/stars/minhlight1306/DGHNHT_Apex_251?color=white&logo=github">&emsp;<img src="https://img.shields.io/github/last-commit/minhlight1306/DGHNHT_Apex_251?color=blue">
 <br />
-<img src="https://img.shields.io/github/languages/top/minhlight1306/OS_241_assignment_HCMUT?color=yellow&logo=c&logoColor=yellow">&emsp;<img src="https://img.shields.io/github/repo-size/minhlight1306/OS_241_assignment_HCMUT?color=orange&label=size&logo=git&logoColor=orange">
+<img src="https://img.shields.io/github/languages/top/minhlight1306/DGHNHT_Apex_251?color=yellow&logo=c&logoColor=yellow">&emsp;<img src="https://img.shields.io/github/repo-size/minhlight1306/DGHNHT_Apex_251?color=orange&label=size&logo=git&logoColor=orange">
 <br />
 
 **The Queuing Systems-based Performance Evaluation Project / Semester 251**
@@ -22,9 +22,9 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 # Languages & Tools
 
-<img src="https://img.icons8.com/color/96/000000/c-programming.png" align="center" style="margin-left:10px;margin-bottom:5px;" width=70px/><img src="https://img.icons8.com/color/96/000000/linux--v1.png" align="center" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-# SPE_251_assignment_HCMUT
+# Assignment 1 Course: System Performance Evaluation
 
 ## Tiên quyết: Phải được thực thi bằng Jupyter Notebook.
   
@@ -33,13 +33,8 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 ## Cấu trúc của BTL:
 ```
- ┣ 📂include        # Các file header.
- ┣ 📂input          # Một vài Input có sẵn.
- ┣ 📂obj            # Các Object file dùng cho sau khi make all.
- ┣ 📂output         # Một vài output mẫu.
- ┣ 📂src            # File code.
- ┣ 📂.vscode        # Chứa file .json của VSCode, không ảnh hưởng tới bài tập lớn này.
- ┣ 📜Makefile       # File để compile toàn bộ code.
- ┣ 📜os             # File thực thi sau khi được tạo ra bởi lệnh "make all"
+ ┣ 📂Images                     # Thư mục lưu hình ảnh.
+ ┣ 📜HK151_SPE_Apex.ipynb       # File chính chứa kết quả.
+ ┣ 📜Readme.md                  #
 ```
 
